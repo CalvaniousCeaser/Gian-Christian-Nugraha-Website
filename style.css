@@ -88,6 +88,7 @@
 .basic {
   padding: 0px;
   border: 0px solid #000000;
+  text-indent: 0px;
 }
 
 .footer {
@@ -137,6 +138,10 @@
   background: rgba(255, 255, 255, 0.18);
   border-color: rgba(255, 255, 255, 0.5);
   transform: translateY(-2px);
+}
+
+.medium {
+  font-size: 20px;
 }
 
 /* GENERAL CHANGES*/
