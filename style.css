@@ -51,6 +51,7 @@
   border: 4px solid #8EA7E9;
   padding: 5px;
   right: 30px;
+  object-fit: cover;
 }
 
 .profile_info {
